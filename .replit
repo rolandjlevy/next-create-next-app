@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "cd nextjs-blog && npm run dev"
